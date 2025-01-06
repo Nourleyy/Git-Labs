@@ -1,6 +1,3 @@
 hello from yara
-<<<<<<< Updated upstream
 stash trial
-=======
 ana kaman bagarab el stash
->>>>>>> Stashed changes
