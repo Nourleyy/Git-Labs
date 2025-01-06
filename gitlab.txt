@@ -1,0 +1,3 @@
+bla bla 
+trying to edit after adding to .gitignore
+edit again after deleting 
