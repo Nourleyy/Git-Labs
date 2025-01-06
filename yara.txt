@@ -1,3 +1,3 @@
 hello from yara
 stash trial
-ana kaman bagarab el stash
+ana kaman bagarab el stash.
